@@ -1,4 +1,4 @@
-## Namaste🙏
+## 🙏
 
 <h1 align="left">Hi 👋, I'm Sahana S S</h1>
 <h3 align="left">Passionate QA Engineer 🚀 | Delivering bug-free 🐞➡️✅ and high-performing apps</h3>
